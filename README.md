@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liviahprado&label=Profile%20views&color=0e75b6&style=flat" alt="liviahprado" /> </p>
 
-- 🔭 I’m currently working on **pet projects**
+- 🔭 I’m currently working on **New projects**
 
-- 🌱 I’m currently learning **Frameworks, Java and Automation**
+- 🌱 I’m currently learning **Javascrip, C#, and React **
 
 - 📫 How to reach me **liviasprado@outlook.com**
 
